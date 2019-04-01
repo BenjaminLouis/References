@@ -3,6 +3,9 @@ title: "R&Co"
 output: github_document
 ---
 
+## Rstudio
+
++ [Build project templates](https://rstudio.github.io/rstudio-extensions/rstudio_project_templates.html)
 
 
 ## REcosystem
@@ -55,6 +58,7 @@ output: github_document
 ## Reproducible data science
 
 + <http://inundata.org/talks/rstd19/#/>
++ [Slides from Romain Lesur](https://rlesur.gitlab.io/statcanrug/slides.pdf)
 
 ## Data Visualisation
 
