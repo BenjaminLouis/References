@@ -12,6 +12,11 @@ output: github_document
 
 + <https://blog.revolutionanalytics.com/2018/10/how-r-gets-built-on-windows.html>
 
+## Good practices
+
++ [Hadley Wickham's style guide](http://stat405.had.co.nz/r-style.html)
+
+
 ## Others
 
 + <https://cocalc.com/>
