@@ -78,9 +78,20 @@ output: github_document
 ### Dependencies
 
 + [it depends by Jim Hester](https://speakerdeck.com/jimhester/it-depends)
++ [pkgnet](https://uptakeopensource.github.io/pkgnet/)
+
+### Good practices
+
++ [goodpractice](https://github.com/MangoTheCat/goodpractice)
 
 ## Coupling
 
 ### Docker
 
 + [Introduction to Docker by R users by Colin Fay](https://colinfay.me/docker-r-reproducibility/)
+
+## Specific methods
+
+### Time-series
+
++ [class-agnostic time series](https://usefulr.wordpress.com/2019/04/14/tsbox-0-1-class-agnostic-time-series/amp/?__twitter_impression=true)
