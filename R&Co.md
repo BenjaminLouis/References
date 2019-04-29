@@ -90,8 +90,23 @@ output: github_document
 
 + [Introduction to Docker by R users by Colin Fay](https://colinfay.me/docker-r-reproducibility/)
 
+### APIs
+
++ [How to access APIs in R by Martin Frigaard](http://www.storybench.org/how-to-access-apis-in-r/)
+
 ## Specific methods
 
 ### Time-series
 
 + [class-agnostic time series](https://usefulr.wordpress.com/2019/04/14/tsbox-0-1-class-agnostic-time-series/amp/?__twitter_impression=true)
+
+## Learning R
+
++ [https://mtes-mct.github.io/parcours-r/ (french)](https://mtes-mct.github.io/parcours-r/)
+
++ [Learn by contributing by Andrew Goldis](https://dev.to/agoldis/learn-by-contributing-27g6)
+
+
+## Simulate data
+
++ [Holodeck by Eric R. Scott](http://www.ericrscott.com/2019/04/16/holodeck-on-cran/)
