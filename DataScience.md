@@ -8,6 +8,10 @@ output: github_document
 + <http://nickstrayer.me/pValueExplainer/>
 + <https://statisticsbyjim.com/hypothesis-testing/high-p-values/>
 
+### p-value
+
++ <https://www.nature.com/articles/d41586-019-00857-9>
+
 ### Survey
 
 + <https://zapier.com/learn/forms-surveys/design-analyze-survey/>
