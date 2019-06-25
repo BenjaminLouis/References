@@ -16,9 +16,11 @@ output: github_document
 
 + <https://zapier.com/learn/forms-surveys/design-analyze-survey/>
 
+
 ### Models
 
 + <https://www.rdatagen.net/post/linear-regression-models-assume-noise-is-independent/>
++ [Gam's in R by Noam Ross](https://noamross.github.io/gams-in-r-course/)
 
 
 ### Cum hoc sed non propter hoc
