@@ -3,6 +3,10 @@ title: "Data Science"
 output: github_document
 ---
 
+### Before collecting
+
++ [Imagine your data before you collect it by Graeme Blair, Jasper Cooper, Alexander Coppock and Macartan Humphreys](https://rviews.rstudio.com/2019/07/01/imagine-your-data-before-you-collect-it/)
+
 ### Basics
 
 + <http://nickstrayer.me/pValueExplainer/>

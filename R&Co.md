@@ -11,6 +11,7 @@ output: github_document
 ## REcosystem
 
 + <https://blog.revolutionanalytics.com/2018/10/how-r-gets-built-on-windows.html>
++ [S4 : a short guide for perplexed by Stuart Lee](https://stuartlee.org/post/content/post/2019-07-09-s4-a-short-guide-for-perplexed/)
 
 ## Good practices
 
@@ -24,6 +25,7 @@ output: github_document
 ## Tidyverse
 
 + <https://style.tidyverse.org/>
++ [Getting started with tidyverse in R by Martin Frigaard](http://www.storybench.org/getting-started-with-tidyverse-in-r/)
 
 ## Downverse
 
@@ -75,6 +77,10 @@ output: github_document
 
 ## Package development
 
+### Gobal
+
++ [ROpenSci's development guide](https://devguide.ropensci.org/)
+
 ### Dependencies
 
 + [it depends by Jim Hester](https://speakerdeck.com/jimhester/it-depends)
@@ -110,3 +116,6 @@ output: github_document
 ## Simulate data
 
 + [Holodeck by Eric R. Scott](http://www.ericrscott.com/2019/04/16/holodeck-on-cran/)
++ [How to with package {fakir}](https://www.programmingwithr.com/how-to-generate-meaningful-fake-data-for-learning-experimentation-and-teaching/)
+
+

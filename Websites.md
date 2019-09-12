@@ -16,3 +16,8 @@ Here is a list of websites really interesting to follow. And if you need to be c
 ## Videos
 
 + [rstudio::conf 2019](https://resources.rstudio.com/rstudio-conf-2019)
+
+
+## Ressources
+
++ [Free programming books](https://books.goalkicker.com/)
